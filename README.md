@@ -22,8 +22,6 @@ app.listen(3000, () =>{
 
 ```
 
-<br><b>
-
 <div>
     <a href="https://github.com/alissondev94">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=alissondev94&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
