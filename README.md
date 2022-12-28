@@ -29,8 +29,7 @@ app.listen(3000, () =>{
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissondev94&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
-## **Linguagens e Ferramentas:**
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 	<img align="center" alt="Alisson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 	<img align="center" alt="Alisson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 	<img align="center" alt="Alisson-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
