@@ -23,8 +23,8 @@ app.listen(3000, () =>{
 ```
 <br><br>
 
-<div align="center">
-  <a href="https://github.com/alissondev94">
+<div>
+    <a href="https://github.com/alissondev94">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=alissonde94&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonde94&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
