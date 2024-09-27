@@ -29,14 +29,6 @@ app.listen(3000, () =>{
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissondev94&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97"/>
 </div>
 
-<div style="display: inline_block"><br>
-<img align="center" alt="Alisson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-	<img align="center" alt="Alisson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-	<img align="center" alt="Alisson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-	<img align="center" alt="Alisson-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Alisson-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
-
 ##
 
 <div>
