@@ -6,19 +6,25 @@ Um software developer apaixonado por tecnologia, buscando transformar sonhos em 
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```javascript
-const express = require('express')
-const app = express()
+```Java
+/* public class GitHubProfile {
+    private String name = "Alisson";
+    private String profession = "Back-End Java";
+    private String stack = "| Java | Spring | JPA Hibernate | SQL |";
+    private String linkedin = "https://www.linkedin.com/in/alisson-paix%C3%A3o/";
+    
+    public void displayProfile() {
+        System.out.println("👨‍💻 " + name);
+        System.out.println("🔧 Profession: " + profession);
+        System.out.println("🛠️ Tech Stack: " + stack);
+        System.out.println("🌐 LinkedIn: " + linkedin);
+    }
 
-const Developer = {name:"Alisson", stack:"Full-Stack-Developer"    }
-
-app.get('/', (req, res) =>{
-  return res.send(Developer)
-}),
-
-app.listen(3000, () =>{
-  console.log("Initing code...")
-})
+    public static void main(String[] args) {
+        GitHubProfile profile = new GitHubProfile();
+        profile.displayProfile();
+    }
+}
 
 ```
 <br><br>
