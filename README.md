@@ -9,8 +9,8 @@ Um software developer apaixonado por tecnologia, buscando transformar sonhos em 
 ```Java
 /* public class GitHubProfile {
     private String name = "Alisson";
-    private String profession = "Back-End Java";
-    private String stack = "| Java | Spring | JPA Hibernate | SQL |";
+    private String profession = "Back-End Developer";
+    private String stack = "Java, Spring Boot, Hibernate, SQL";
     private String linkedin = "https://www.linkedin.com/in/alisson-paix%C3%A3o/";
     
     public void displayProfile() {
@@ -25,6 +25,13 @@ Um software developer apaixonado por tecnologia, buscando transformar sonhos em 
         profile.displayProfile();
     }
 }
+
+
+👨‍💻 Alisson
+🔧 Profession: Back-End Java
+🛠️ Tech Stack: | Java | Spring | JPA Hibernate | SQL |
+🌐 LinkedIn: https://www.linkedin.com/in/alisson-paix%C3%A3o/
+
 
 ```
 <br><br>
