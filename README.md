@@ -8,7 +8,7 @@ Um software developer apaixonado por tecnologia, buscando transformar sonhos em 
 
 ```Java
  public class GitHubProfile {
-    private String name = "Alisson";
+    private String name = "Alisson Paixão";
     private String profession = "Engenheiro de Software";
     private String stack = "Java, Spring Boot, Hibernate, SQL, HTML, CSS, JavaScript";
     private String linkedin = "https://www.linkedin.com/in/alisson-paix%C3%A3o/";
@@ -27,7 +27,7 @@ Um software developer apaixonado por tecnologia, buscando transformar sonhos em 
 }
 
 
-👨‍💻 Alisson
+👨‍💻 Alisson Paixão
 🔧 Profession: Engenheiro de Software
 🛠️ Tech Stack: | Java | Spring | JPA Hibernate | SQL | HTML | CSS | JavaScript
 🌐 LinkedIn: https://www.linkedin.com/in/alisson-paix%C3%A3o/
