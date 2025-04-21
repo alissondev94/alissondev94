@@ -3,7 +3,6 @@
 💻 Atuo no desenvolvimento backend com foco em Java, Spring Boot, JPA/Hibernate e SQL.
 🌐 Tenho conhecimentos em HTML, CSS, JavaScript e Node.js, o que me permite ter uma visão completa no desenvolvimento web.
 🧠 Apaixonado por lógica, estrutura de dados e pela criação de soluções eficientes.
-🚀 Estou sempre evoluindo, buscando boas práticas, novos aprendizados e contribuindo com projetos reais e colaborativos
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
