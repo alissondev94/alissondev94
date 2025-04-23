@@ -1,8 +1,6 @@
 ### 👋 Olá! Sou Alisson Paixão, Engenheiro de Software.
 
-💻 Atuo no desenvolvimento backend com foco em Java, Spring Boot, JPA/Hibernate e SQL.
-🌐 Tenho conhecimentos em HTML, CSS, JavaScript e Node.js, o que me permite ter uma visão completa no desenvolvimento web.
-🧠 Apaixonado por lógica, estrutura de dados e pela criação de soluções eficientes.
+💻🌐🧠 Apaixonado por tecnologia
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
